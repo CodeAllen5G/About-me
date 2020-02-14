@@ -12,7 +12,7 @@
 
 [2019年文章合辑](http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&mid=2247484391&idx=1&sn=795830726eb111912a885f6e75db57af&chksm=96c690c8a1b119de4f33d4bd553ef401afe89d1a0e8e024a014430a63ba4de55c54ea6f3f084&scene=21#wechat_redirect)
 
-[2020Java学习路线（珍藏版）](http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&mid=2247484415&idx=1&sn=abf6137288dfedffccbe9d39af94c225&chksm=96c690d0a1b119c68159c396026d1d9308a994fd1fe50282da9f6f2ce9b2d4207b37952245c3&scene=21#wechat_redirect)
+
 
 
 
