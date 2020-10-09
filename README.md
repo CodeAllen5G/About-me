@@ -19,3 +19,4 @@
 
 ![image](https://upload-images.jianshu.io/upload_images/12856594-2a026b564f7c22f3.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/258/format/webp)
 
+![](E:\1-公众号\301 账号\Allen有话说.jpg)
