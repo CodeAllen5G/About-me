@@ -15,8 +15,7 @@
 
 业余时间喜欢学习探索，每周会抽时间进行总结并发布文章，主要平台就是下边的公众号，感谢关注留言
 
-公众号「CodeAllen」
+公众号「**CodeAllen**」
 
-![image](https://upload-images.jianshu.io/upload_images/12856594-2a026b564f7c22f3.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/258/format/webp)
+![image](https://img-blog.csdnimg.cn/20200830160551744.jpg#pic_center)
 
-![](E:\1-公众号\301 账号\Allen有话说.jpg)
