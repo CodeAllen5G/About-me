@@ -17,5 +17,5 @@
 
 公众号「**CodeAllen**」
 
-![image](https://wx1.sinaimg.cn/mw1024/e9147f3fly1gjji67ajvhj2076076q3e.jpg)
+![image](https://upload-images.jianshu.io/upload_images/12856594-9616486305dd9209.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/258/format/webp)
 
